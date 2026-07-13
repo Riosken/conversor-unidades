@@ -5,7 +5,7 @@ Proyecto grupal desarrollado para la tarea de **Trabajo Colaborativo y Control d
 ## Integrantes
 
 - Eduardo (rama `rama-eduardo`): módulo de conversión de temperatura.
-- [Nombre de la compañera] (rama `rama-companera`): módulo de conversión de longitud.
+- Yales (rama `rama-Yales`): módulo de conversión de longitud.
 
 ## Compilación y ejecución
 
@@ -20,11 +20,11 @@ gcc -Wall -o conversor conversor.c
 
 2. **Creación de ramas individuales.** Cada integrante creó su propia rama a partir de `main`:
    - `rama-eduardo` para la funcionalidad de conversión de temperatura.
-   - `rama-companera` para la funcionalidad de conversión de longitud.
+   - `rama-Yales` para la funcionalidad de conversión de longitud.
 
 3. **Commits individuales.** Cada integrante realizó al menos dos commits en su rama:
    - Eduardo: (1) agregar conversión de Celsius a Fahrenheit; (2) agregar conversión inversa de Fahrenheit a Celsius.
-   - Compañera: (1) agregar conversión de Metros a Pies; (2) agregar conversión inversa de Pies a Metros.
+   - Yales: (1) agregar conversión de Metros a Pies; (2) agregar conversión inversa de Pies a Metros.
 
 4. **Fusión (merge) mediante Pull Requests.**
    - Primero se fusionó `rama-eduardo` en `main` mediante un Pull Request. Esta fusión fue automática, sin conflictos, porque `main` no había cambiado desde que se creó la rama.
